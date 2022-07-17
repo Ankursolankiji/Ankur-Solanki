@@ -169,6 +169,7 @@ text-decoration: none;
     background-color: var(--color-2);
 }
 button{
+    font-family:var(--font-2);
    background-color: inherit;
    border-radius:0;
    border:none;
