@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Sacramento&display=swap');
+:root{
+    --color-1:#E4F9F5;
+    --color-2:#30E3CA;
+    --color-3:#11999E;
+    --color-4:#40514E;
+--font-1: 'Sacramento', cursive;
+--font-2: 'Open Sans', sans-serif;
+}
